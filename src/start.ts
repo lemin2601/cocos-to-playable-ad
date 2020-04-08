@@ -1,7 +1,7 @@
 import * as fs from "fs"
 import * as path from "path"
 import * as uglify from "uglify-js"
-import CleanCSS = require("clean-css")
+import CleanCSS = require("clean-css");
 
 export namespace X {
 
